@@ -1,6 +1,10 @@
 ![strangerzonehf/Flux-Super-Realism-LoRA](images/sz.png)
 
-## Stranger Zone's - Flux Super Realism LoRA
+## Stranger Zone's - Flux Super Realism LoRA 
+
+Model Link : 
+
+[Download](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) them in the Files & versions tab.
 
 ## Model description for super realism
 
