@@ -2,7 +2,7 @@ from gradio_client import Client
 
 client = Client("prithivMLmods/FLUX-REALISM")
 result = client.predict(
-		prompt="Hello!!",
+		prompt="A tiny astronaut hatching from an egg on the moon, 4k, planet theme", #your prompt goes here
 		seed=0,
 		width=1024,
 		height=1024,
