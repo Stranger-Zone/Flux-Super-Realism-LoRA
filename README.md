@@ -76,4 +76,4 @@ pipe.to(device)
 
 Weights for this model are available in Safetensors format.
 
-[Download](/strangerzonehf/Flux-Super-Realism-LoRA/tree/main) them in the Files & versions tab.
+[Download](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) them in the Files & versions tab.
