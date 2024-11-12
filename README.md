@@ -1,53 +1,6 @@
----
-tags:
-- text-to-image
-- lora
-- diffusers
-- template:diffusion-lora
-- Super-Realism
-- Flux.1-Dev
-- Dynamic-Realism
-- Realistic
-- Photorealism
-- Hi-Res
-- UltraRealism
-- Diffusion
-- Face
-widget:
-- text: >-
-    Super Realism, Woman in a red jacket, snowy, in the style of hyper-realistic
-    portraiture, caninecore, mountainous vistas, timeless beauty, palewave,
-    iconic, distinctive noses --ar 72:101 --stylize 750 --v 6
-  output:
-    url: images/3.png
-- text: >-
-    Super Realism, Headshot of handsome young man, wearing dark gray sweater
-    with buttons and big shawl collar, brown hair and short beard, serious look
-    on his face, black background, soft studio lighting, portrait photography
-    --ar 85:128 --v 6.0 --style rawHeadshot of handsome young man, wearing dark
-    gray sweater with buttons and big shawl collar, brown hair and short beard,
-    serious look on his face, black background, soft studio lighting, portrait
-    photography --ar 85:128 --v 6.0 --style rawHeadshot of handsome young man,
-    wearing dark gray sweater with buttons and big shawl collar, brown hair and
-    short beard, serious look on his face, black background, soft studio
-    lighting, portrait photography --ar 85:128 --v 6.0 --style raw
-  output:
-    url: images/2.png
-- text: >-
-    Super Realism, High-resolution photograph, woman, UHD, photorealistic, shot
-    on a Sony A7III --chaos 20 --ar 1:2 --style raw --stylize 250
-  output:
-    url: images/1.png
-base_model: black-forest-labs/FLUX.1-dev
-instance_prompt: Super Realism
-license: mit
-library_name: transformers
----
 ![strangerzonehf/Flux-Super-Realism-LoRA](images/sz.png)
 
 ## Stranger Zone's - Flux Super Realism LoRA
-
-<Gallery />
 
 ## Model description for super realism
 
